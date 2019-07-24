@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gg-tablestore": "^1.0.0"
+    "gg-tablestore": "^1.0.4"
   }
 }
